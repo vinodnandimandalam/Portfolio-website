@@ -14,7 +14,7 @@ const Projects = () => {
                                 alt={project.title}
                                 width={150}
                                 height={150}
-                                className='my-6'
+                                className='my-6 rounded-xl'
                             />
                         </div>
 

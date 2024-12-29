@@ -24,7 +24,7 @@ export const EXPERIENCES = [
   {
     year: "2020 - 2021",
     role: "Tech Content Developer",
-    company: "Ib Hubs",
+    company: "IB Hubs",
     description: `Delivered world-class content in full-stack technologies, helping over 10,000 individuals secure placements in their dream companies.`,
     technologies: ["HTML", "CSS", "JS", "React"],
   },
